@@ -3,5 +3,10 @@
     "configLevel": "project",
     "useProfile": false,
     "awsConfigFilePath": "C:\\Users\\User\\.amplify\\awscloudformation\\EjDKG4WWkC"
+  },
+  "mehdienv": {
+    "configLevel": "project",
+    "useProfile": false,
+    "awsConfigFilePath": "C:\\Users\\User\\.amplify\\awscloudformation\\3mGPNkfIHd"
   }
 }

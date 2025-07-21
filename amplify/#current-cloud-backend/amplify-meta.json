@@ -1,14 +1,14 @@
 {
   "providers": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-mbaws3-mbaws-ec3a4-authRole",
-      "UnauthRoleArn": "arn:aws:iam::038785695261:role/amplify-mbaws3-mbaws-ec3a4-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::038785695261:role/amplify-mbaws3-mbaws-ec3a4-authRole",
+      "AuthRoleName": "amplify-mbaws3-mehdienv-36929-authRole",
+      "UnauthRoleArn": "arn:aws:iam::038785695261:role/amplify-mbaws3-mehdienv-36929-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::038785695261:role/amplify-mbaws3-mehdienv-36929-authRole",
       "Region": "eu-west-1",
-      "DeploymentBucketName": "amplify-mbaws3-mbaws-ec3a4-deployment",
-      "UnauthRoleName": "amplify-mbaws3-mbaws-ec3a4-unauthRole",
-      "StackName": "amplify-mbaws3-mbaws-ec3a4",
-      "StackId": "arn:aws:cloudformation:eu-west-1:038785695261:stack/amplify-mbaws3-mbaws-ec3a4/a3362240-660c-11f0-bb87-0af6eb551411",
+      "DeploymentBucketName": "amplify-mbaws3-mehdienv-36929-deployment",
+      "UnauthRoleName": "amplify-mbaws3-mehdienv-36929-unauthRole",
+      "StackName": "amplify-mbaws3-mehdienv-36929",
+      "StackId": "arn:aws:cloudformation:eu-west-1:038785695261:stack/amplify-mbaws3-mehdienv-36929/d75a94b0-662b-11f0-9471-06c715fcf1c1",
       "AmplifyAppId": "dqzwhbyuecsid"
     }
   }
