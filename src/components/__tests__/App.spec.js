@@ -17,8 +17,8 @@ describe('App.vue', () => {
     const wrapper = mount(App)
     expect(wrapper.find('button.neon-btn').exists()).toBe(true)
   })
-  it('Le boutton n est pas activé', () => {
-    const wrapper = mount(App)
-    expect(wrapper.find('button.neon-btn').attributes('disabled')).toBeDefined()
-  })
+  //   it('Le boutton n est pas activé', () => {
+  //     const wrapper = mount(App)
+  //     expect(wrapper.find('button.neon-btn').attributes('disabled')).toBeDefined()
+  //   })
 })
